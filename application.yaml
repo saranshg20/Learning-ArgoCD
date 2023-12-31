@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.com/learning_ci_cd/argocd-app-config.git
+    repoURL: https://github.com/saranshg20/Learning-ArgoCD.git
     targetRevision: HEAD
     path: dev
   destination: 
